@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `Dipo Olaosun`,
+    name: `Dipo Designs`,
+    siteUrl: `http://dipoolaosun.co.uk`,
+    description: `Designer & Developer bringing ideas to life`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Dipo Olaosun.`,
       maxWidth: 652,
     },
     social: [
