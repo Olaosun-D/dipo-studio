@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: https://github.com/Olaosun-D/dipo-studio
+  repo: https://github.com/Olaosun-D/dipo-studio/
   
 local_backend: true # Optional if you want to use the local proxy mode
 
