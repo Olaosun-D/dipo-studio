@@ -5,30 +5,31 @@ module.exports = {
     siteUrl: `http://dipoolaosun.co.uk`,
     description: `Designer & Developer bringing ideas to life`,
     hero: {
-      heading: `Dipo Olaosun.`,
+      heading: `Dipo Olaosun. Designer/Developer`,
       maxWidth: 652,
     },
     social: [
-      {
-        name: `twitter`,
-        url: `https://twitter.com/narative`,
-      },
+      // {
+      //   name: `twitter`,
+      //   url: `https://twitter.com/narative`,
+      // },
       {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/Olaosun-D`,
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        // url: `https://www.instagram.com/d1.studios/?hl=en`,
+        url: `https://www.instagram.com/deeps_worldwide/`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
+        url: `https://www.linkedin.com/in/dipo-olaosun-5a4242138/`,
       },
-      {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
-      },
+      // {
+      //   name: `dribbble`,
+      //   url: `https://dribbble.com/narativestudio`,
+      // },
     ],
   },
   plugins: [
@@ -48,8 +49,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `Dipo Olaosun Design`,
+        short_name: `Dipo Olaosun`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
