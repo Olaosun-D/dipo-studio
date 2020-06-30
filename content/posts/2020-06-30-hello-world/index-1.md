@@ -1,7 +1,7 @@
 ---
 title: hello World
 author: Editor.io
-date: '2020-06-30'
+date: '2020-06-25'
 excerpt: 'Lorem Ipsum '
 hero: images/clipboard-example.gif
 ---
