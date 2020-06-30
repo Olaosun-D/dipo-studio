@@ -1,10 +1,10 @@
 ---
 title: Knife Organiser
-author: Dennis Brotzky
-date: 2019-04-27
-# tools: Html, CSS, 
-hero: ./images/knife-org-hero.jpg
+author: Dipo Olaosun
+date: 2019-04-27T00:00:00.000Z
 excerpt: knife organiser lorem ipsum tarndum
+tools: ssw
+hero: ./images/knife-org-hero.jpg
 ---
 
 ## Lists
