@@ -1,12 +1,11 @@
-name: Dennis Brotzky
-bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
-avatar: ./avatars/dennis-brotzky.jpg
-social:
-  - url: https://unsplash.com
-  - url: https://stackoverflow.com
-  - url: https://github.com
-  - url: https://github.com
-  - url: https://github.com
+name: Dipo Olaosun
+bio: >-
+  Designer and Web Developer with passion for innovation and creativity.
+  Exploring physical and digital aspects of the design world. Continuously
+  developing, through numerous personal projects and freelance client work.
+  Striving to create functional products through ultra-fine design.  Projects
+  range from Bespoke Manufacture, Digital Renderings, Front-end Development,
+  UI/UX and lots more.
 featured: true
+avatar: avatars/dipo-profile-avatar.jpg
+social: []
