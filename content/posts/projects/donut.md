@@ -1,6 +1,6 @@
 ---
 title: Couples App
-author: Dipo Olaosun
+author: Editor.io
 date: 2020-04-27T00:00:00.000Z
 excerpt: Couples Suggestion App concept
 tools: XD
