@@ -1,39 +1,25 @@
 ---
 title: Clipboard Genius
-author: Dennis Brotzky
-date: 2019-04-27
-# tools: Html, CSS, 
-hero: ./images/clipboard-example.jpg
+author: Dipo Olaosun
+date: 2019-04-27T00:00:00.000Z
 excerpt: A Clipboard manager built for developers.
+tools: 'Solidworks, photoshop, Keyshot'
+hero: images/clipboard-example.gif
 ---
+## Brief
 
-## Design Spec
 A Clipboard manager built for developers. A Desktop application which automatically Highlights Syntax of everything you copy whilst keeping a backlog of snippets to use later on.industry.
 
-## Tools
-1. Photoshop
-2. Solidworks
-3. Keyshot
+* Automated Syntax highlighting based on language.
+* Base64 image compression
+* Regex Sort & Filtering
+* Cache / Ram optimisation
+* Linux / Windows Compatible
 
-## Images
-<div className="Image__Small">
-  <img
-    src="./images/clipbaord-genius-code.jpg"
-    title="Logo Title Text 1"
-    alt="Alt text"
-  />
-</div>
-<div className="Image__Small">
-  <img
-    src="./images/clipbaord-genius-designer.jpg"
-    title="Logo Title Text 1"
-    alt="Alt text"
-  />
-</div>
-<div className="Image__Small">
-  <img
-    src="./images/clipbaord-genius-welcome.jpg"
-    title="Logo Title Text 1"
-    alt="Alt text"
-  />
-</div>
+## Visual
+
+![](images/clipboard-genius-code.png)
+
+![](images/clipboard-genius-designer.png)
+
+![](images/clipoard-genuis-welcome.png)
