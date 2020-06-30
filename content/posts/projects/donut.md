@@ -4,7 +4,7 @@ author: Dipo Olaosun
 date: 2020-04-27T00:00:00.000Z
 excerpt: Couples Suggestion App concept
 tools: XD
-hero: ./images/couple-app-hero.jpg
+hero: images/Artboard.png
 ---
 # And then under the heading YML you can insert any MDX you like
 
