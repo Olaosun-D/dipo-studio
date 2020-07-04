@@ -1,10 +1,12 @@
 ---
 title: Couples App
-author: Dennis Brotzky
+author: Dipo Olaosun
 date: 2020-04-27T00:00:00.000Z
 excerpt: Couples Suggestion App concept
-hero: ./images/couple-app-hero.jpg
+hero: images/Artboard.png
 ---
+![]()
+
 # And then under the heading YML you can insert any MDX you like
 
 # like headings, links, code, images, etc
@@ -21,4 +23,8 @@ hero: ./images/couple-app-hero.jpg
 
 ![](images/Ai Local Suggestion.png)
 
+
+
 ![](images/Suggestions.png)
+
+![](images/Artboard.png)
